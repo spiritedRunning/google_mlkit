@@ -4,6 +4,12 @@
 
 This ML Kit Quickstart app demonstrates how to use and integrate various vision based ML Kit features into your app.
 
+
+
+Samples: [ML Kit  | Google Developers](https://developers.google.com/ml-kit/samples)
+
+
+
 ## Feature List
 
 Features that are included in this Quickstart app:
